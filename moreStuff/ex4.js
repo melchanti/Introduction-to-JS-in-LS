@@ -5,6 +5,7 @@ function maximum(numbers){
 		if (!max){
 			max = value;
 		}
+		
 		if (value > max){
 			max = value;
 		}
